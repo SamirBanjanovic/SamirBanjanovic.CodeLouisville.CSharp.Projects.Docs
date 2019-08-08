@@ -12,17 +12,23 @@ Each project builds on the previous, so it's essential that each one is complete
 # Project summaries
 
 ### Project 1:
-- Creating a new `Console` application
-- Introduction to `classes`
+- Creating a new `Console` application 
 - Introduction to handling `user input`
-- Introduction to `nuget packages`
+- Variable declaration
+- Introduction to `loops`
+- Input validation
 #
 
 ### Project 2:
 - Git branching
-- User input validation - `?`
-- Introduction to `loops`
-- Introduction to `Collections`
+- Introduction to classes
+
+#
+
+### Project 3:
+- Read from input file
+- Write changes back to file
+- CRUD operations on file
 #
 
 # Project 1
